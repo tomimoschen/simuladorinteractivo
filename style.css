@@ -1,0 +1,14 @@
+body{
+    background-color: #1C2128;
+}
+h1{
+    font-family: monospace;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(221, 221, 221);
+}
+h2, p{
+    font-family: monospace;
+    text-align: center;
+    color: rgb(221, 221, 221);
+}
